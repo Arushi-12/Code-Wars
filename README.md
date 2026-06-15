@@ -1,4 +1,4 @@
-# Code-Warriors
+# Code-Wars
 
 It is a platform that enables developers to engage in real-time 1v1 coding battles simulating high-pressure problem-solving environments similar to technical interviews and competitive programming.
 
